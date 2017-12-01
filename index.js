@@ -1,1 +1,3 @@
-export default './lib/EditableTextComponent';
+import EditableText from './lib/EditableTextComponent';
+
+export default EditableText;
