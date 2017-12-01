@@ -1,0 +1,26 @@
+{
+  "name": "react-native-inline-edit",
+  "version": "0.1.0",
+  "description": "React-Native component for text editing in-place and validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElinaSchaefer77/react-native-inline-edit.git"
+  },
+  "keywords": [
+    "react-native",
+    "inline",
+    "edit",
+    "text",
+    "editing"
+  ],
+  "author": "Elina Schäfer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElinaSchaefer77/react-native-inline-edit/issues"
+  },
+  "homepage": "https://github.com/ElinaSchaefer77/react-native-inline-edit#readme"
+}
