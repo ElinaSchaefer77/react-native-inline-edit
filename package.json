@@ -1,6 +1,6 @@
 {
   "name": "react-native-inline-edit",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "React-Native component for text editing in-place and validation",
   "main": "index.js",
   "repository": {
